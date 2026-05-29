@@ -60,9 +60,9 @@ SPMSM的均匀气隙，保证了无论转子位置如何、电流在哪个空间
 
 将前文SPMSM的![](https://cdn.nlark.com/yuque/__latex/1e410e8095c843d509362bef07ca35b2.svg)代入计算，最终得到的αβ坐标系电感矩阵为：
 
-![](https://cdn.nlark.com/yuque/__latex/0f554d8cc75fb4ca987ef8dba70d397e.svg)
+![417](https://cdn.nlark.com/yuque/__latex/0f554d8cc75fb4ca987ef8dba70d397e.svg)
 
-可以清晰看到：变换后的电感矩阵是**纯对角矩阵**，非对角项（α、β轴之间的互感）完全抵消为0，α、β轴的自感均为恒定常数![](https://cdn.nlark.com/yuque/__latex/2ee8fd0432b23b4c1852226e6dac95b5.svg)，和文档中SPMSM的αβ磁链方程完全对应。
+可以清晰看到：变换后的电感矩阵是**纯对角矩阵**，非对角项（α、β轴之间的互感）完全抵消为0，α、β轴的自感均为恒定常数 $L_s$，和文档中SPMSM的αβ磁链方程完全对应。
 
 ---
 

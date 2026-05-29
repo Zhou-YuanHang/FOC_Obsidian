@@ -1,0 +1,48 @@
+{
+  "recentFiles": [
+    {
+      "basename": "母线电流分析",
+      "path": "FOC/母线电流/母线电流分析.md"
+    },
+    {
+      "basename": "串讲",
+      "path": "FOC/串讲.md"
+    },
+    {
+      "basename": "待办清单",
+      "path": "待办清单.md"
+    },
+    {
+      "basename": "问题&资料收集",
+      "path": "FOC/问题&资料收集.md"
+    },
+    {
+      "basename": "滑模观测器",
+      "path": "FOC/无感/滑模观测器.md"
+    },
+    {
+      "basename": "高频注入",
+      "path": "FOC/无感/高频注入.md"
+    },
+    {
+      "basename": "无感",
+      "path": "FOC/无感/无感.md"
+    },
+    {
+      "basename": "对于SPMSM，在abc坐标系下存在abc的互感，到αβ坐标系就没有αβ之间的互感了",
+      "path": "FOC/磁链--最最简单的理解/SPMSM的αβ磁链推导（感性推导）/对于SPMSM，在abc坐标系下存在abc的互感，到αβ坐标系就没有αβ之间的互感了.md"
+    },
+    {
+      "basename": "abc到αβ的电感矩阵变换注意点",
+      "path": "FOC/磁链--最最简单的理解/SPMSM的αβ磁链推导（感性推导）/abc到αβ的电感矩阵变换注意点.md"
+    },
+    {
+      "basename": "常用公式",
+      "path": "FOC/常用公式/常用公式.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}
