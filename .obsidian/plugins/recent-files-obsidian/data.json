@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "串讲",
+      "path": "FOC/串讲.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
@@ -9,12 +13,24 @@
       "path": "待办清单.md"
     },
     {
-      "basename": "母线电流分析",
-      "path": "FOC/母线电流/母线电流分析.md"
+      "basename": "坐标系电压方程推导",
+      "path": "FOC/常用公式/坐标系电压方程推导.md"
     },
     {
-      "basename": "串讲",
-      "path": "FOC/串讲.md"
+      "basename": "常用公式",
+      "path": "FOC/常用公式/常用公式.md"
+    },
+    {
+      "basename": "一、永磁同步电机数学模型",
+      "path": "转子磁场定向/一、永磁同步电机数学模型.md"
+    },
+    {
+      "basename": "破冰",
+      "path": "转子磁场定向/破冰.md"
+    },
+    {
+      "basename": "母线电流分析",
+      "path": "FOC/母线电流/母线电流分析.md"
     },
     {
       "basename": "问题&资料收集",
@@ -39,10 +55,6 @@
     {
       "basename": "abc到αβ的电感矩阵变换注意点",
       "path": "FOC/磁链--最最简单的理解/SPMSM的αβ磁链推导（感性推导）/abc到αβ的电感矩阵变换注意点.md"
-    },
-    {
-      "basename": "常用公式",
-      "path": "FOC/常用公式/常用公式.md"
     }
   ],
   "omittedPaths": [],

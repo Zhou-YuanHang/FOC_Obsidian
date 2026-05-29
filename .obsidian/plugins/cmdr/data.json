@@ -1,0 +1,42 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [
+    {
+      "id": "oz-clear-unused-images:clear-images-obsidian",
+      "icon": "lucide-archive-x",
+      "name": "Clear Unused Images: Clear Unused Images",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-plugin-toc:create-toc",
+      "icon": "lucide-align-center",
+      "name": "Table of Contents: Create table of contents",
+      "mode": "any"
+    }
+  ],
+  "pageHeader": [],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}
