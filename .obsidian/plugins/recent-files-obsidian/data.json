@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "串讲",
-      "path": "FOC/串讲.md"
+      "basename": "对于SPMSM，在abc坐标系下存在abc的互感，到αβ坐标系就没有αβ之间的互感了",
+      "path": "FOC/磁链--最最简单的理解/SPMSM的αβ磁链推导（感性推导）/对于SPMSM，在abc坐标系下存在abc的互感，到αβ坐标系就没有αβ之间的互感了.md"
+    },
+    {
+      "basename": "磁链--最最简单的理解",
+      "path": "FOC/磁链--最最简单的理解/磁链--最最简单的理解.md"
+    },
+    {
+      "basename": "待办清单",
+      "path": "待办清单.md"
     },
     {
       "basename": "README",
       "path": "README.md"
     },
     {
-      "basename": "待办清单",
-      "path": "待办清单.md"
+      "basename": "串讲",
+      "path": "FOC/串讲.md"
+    },
+    {
+      "basename": "破冰",
+      "path": "转子磁场定向/破冰.md"
+    },
+    {
+      "basename": "一、永磁同步电机数学模型",
+      "path": "转子磁场定向/一、永磁同步电机数学模型.md"
     },
     {
       "basename": "坐标系电压方程推导",
@@ -19,14 +35,6 @@
     {
       "basename": "常用公式",
       "path": "FOC/常用公式/常用公式.md"
-    },
-    {
-      "basename": "一、永磁同步电机数学模型",
-      "path": "转子磁场定向/一、永磁同步电机数学模型.md"
-    },
-    {
-      "basename": "破冰",
-      "path": "转子磁场定向/破冰.md"
     },
     {
       "basename": "母线电流分析",
@@ -47,10 +55,6 @@
     {
       "basename": "无感",
       "path": "FOC/无感/无感.md"
-    },
-    {
-      "basename": "对于SPMSM，在abc坐标系下存在abc的互感，到αβ坐标系就没有αβ之间的互感了",
-      "path": "FOC/磁链--最最简单的理解/SPMSM的αβ磁链推导（感性推导）/对于SPMSM，在abc坐标系下存在abc的互感，到αβ坐标系就没有αβ之间的互感了.md"
     },
     {
       "basename": "abc到αβ的电感矩阵变换注意点",

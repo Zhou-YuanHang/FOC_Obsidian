@@ -1,9 +1,3 @@
----
-title: 对于SPMSM，在abc坐标系下存在abc的互感，到αβ坐标系就没有αβ之间的互感了
-slug: bcgyqznvaiiighay
-created: 2026-04-22T16:23:24.000Z
-updated: 2026-04-22T16:24:54.000Z
----
 
 ### 核心结论
 
