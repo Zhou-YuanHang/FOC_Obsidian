@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "待办清单",
+      "path": "待办清单.md"
+    },
+    {
       "basename": "母线电流分析",
       "path": "FOC/母线电流/母线电流分析.md"
     },
     {
       "basename": "串讲",
       "path": "FOC/串讲.md"
-    },
-    {
-      "basename": "待办清单",
-      "path": "待办清单.md"
     },
     {
       "basename": "问题&资料收集",
