@@ -173,6 +173,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "components_free:AI 对话（新标签页）": false,
       "oz-clear-unused-images:Clear Unused Images": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
